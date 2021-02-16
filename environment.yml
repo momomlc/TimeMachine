@@ -6,7 +6,6 @@ dependencies:
   - pandas
   - numpy
   - missingno
-  - re
   - Ipython
   - bqplot
   - ipywidgets
