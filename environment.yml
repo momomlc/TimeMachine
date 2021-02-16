@@ -1,4 +1,4 @@
-name: example-environment
+name: false
 channels:
   - conda-forge
   - defaults
@@ -27,7 +27,6 @@ dependencies:
   - beautifulsoup4=4.9.1=py38_0
   - bitarray=1.4.0=py38he774522_0
   - bkcharts=0.2=py38_0
-Note: you may need to restart the kernel to use updated packages.
   - blas=1.0=mkl
   - bleach=3.1.5=py_0
   - blosc=1.19.0=h7bd577a_0
@@ -38,7 +37,6 @@ Note: you may need to restart the kernel to use updated packages.
   - bzip2=1.0.8=he774522_0
   - ca-certificates=2020.6.24=0
   - certifi=2020.6.20=py38_0
-
   - cffi=1.14.0=py38h7a1dbc1_0
   - chardet=3.0.4=py38_1003
   - click=7.1.2=py_0
@@ -333,9 +331,10 @@ Note: you may need to restart the kernel to use updated packages.
     - missingno==0.4.2
     - munch==2.5.0
     - pandas-datareader==0.9.0
-    - plotly==2.0.12
+    - plotly==4.13.0
     - psycopg2==2.8.6
     - pyproj==3.0.0.post1
     - setuptools==50.3.2
     - shapely==1.7.1
     - traittypes==0.2.1
+prefix: C:\Users\20204219\Anaconda3
