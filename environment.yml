@@ -9,7 +9,7 @@ dependencies:
   - Ipython
   - bqplot
   - ipywidgets
-  - xlrd
+  - xlrd==1.2
   - pip:
     - bqplot==0.12.21
 
