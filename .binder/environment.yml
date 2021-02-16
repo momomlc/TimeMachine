@@ -10,6 +10,10 @@ dependencies:
   - bqplot
   - ipywidgets
   - xlrd==1.2
+  - bokeh
   - pip:
     - bqplot==0.12.21
+    - nbserverproxy
+    - jupyter-server-proxy
+
 
