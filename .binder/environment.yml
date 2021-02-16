@@ -13,7 +13,8 @@ dependencies:
   - bokeh
   - pip:
     - bqplot==0.12.21
-    - nbserverproxy
-    - jupyter-server-proxy
+    - nbserverproxy==0.8.8
+    - jupyter-server-proxy==1.2.0
+    - streamlit==0.52.2
 
 
