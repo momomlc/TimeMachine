@@ -1,8 +1,19 @@
+name: false
+channels:
+  - conda-forge
+  - defaults
 dependencies:
-- pandas
-- numpy
-- missingno
-- re
-- bqplot
-- IPython
-- ipywidgets
+  - conda
+  - python=3.8
+  - menuinst
+  - console_shortcut
+  - powershell_shortcut
+  - conda-env
+  - conda-build
+  - conda-verify
+  - _ipyw_jlab_nb_ext_conf
+  - anaconda==2020.07=py38_0
+  - anaconda-navigator
+  - navigator-updater
+  - plotly=4.5.0
+prefix: C:\Users\20204219\Anaconda3
