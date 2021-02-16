@@ -1,4 +1,4 @@
-name: false
+name: example-environment
 channels:
   - conda-forge
   - defaults
@@ -16,4 +16,4 @@ dependencies:
   - anaconda-navigator
   - navigator-updater
   - plotly=4.5.0
-prefix: C:\Users\20204219\Anaconda3
+
