@@ -1,0 +1,8 @@
+dependencies:
+- pandas
+- numpy
+- missingno
+- re
+- bqplot
+- IPython
+- ipywidgets
